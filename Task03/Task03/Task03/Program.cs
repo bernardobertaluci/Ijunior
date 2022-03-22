@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Task03
+﻿namespace Task03
 {
     internal class Program
     {
